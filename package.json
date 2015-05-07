@@ -1,0 +1,19 @@
+{
+  "name": "shadow-module",
+  "version": "1.0.0",
+  "description": "Angular module based on shadowstyles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aminmeyghani/shadow-module.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aminmeyghani/shadow-module/issues"
+  },
+  "homepage": "https://github.com/aminmeyghani/shadow-module"
+}
