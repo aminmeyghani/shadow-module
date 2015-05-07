@@ -6,3 +6,4 @@ Angular module based on shadowstyles
 Angular module for the shadowStyles by [@numtel](https://github.com/numtel).
 
 ## NOTE: Under development ... ##
+
