@@ -8,6 +8,6 @@ angular.module("shadow-styles", [])
     };
   };
   return {
-    create: require("lib/shadow-styles/src/shadowStyles.js")
+    create: require("./lib/shadow-styles/src/shadowStyles.js")
   };
 });
