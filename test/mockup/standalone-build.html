@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="../../build/shadowStyles.min.js"></script>
+  <link rel="stylesheet" href="main.css">
+  <style>
+    .example p { color: red; }
+    x-foo { color: #070; }
+  </style>
+  <script>
+    document.shadowStyles('x-foo');
+  </script>
+</head>
+<body>
+  <p>See red 'something' on failure, green on success.</p>
+  <div class="example">
+    <x-foo class="talk">
+      <p>something</p>
+    </x-foo>
+  </div>
+</body>
+</html>
